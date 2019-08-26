@@ -1,6 +1,5 @@
 # Analytics-Capstone-Project
 
-Course Description
 The analytics process is a collection of interrelated activities that lead to better decisions and to a higher business performance. The capstone of this specialization is designed with the goal of allowing you to experience this process. The capstone project will take you from data to analysis and models, and ultimately to presentation of insights. 
 
 In this capstone project, you will analyze the data on financial loans to help with the investment decisions of an investment company. You will go through all typical steps of a data analytics project, including data understanding and cleanup, data analysis, and presentation of analytical results. 
